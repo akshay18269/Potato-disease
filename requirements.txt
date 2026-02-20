@@ -1,0 +1,5 @@
+--tensor flow
+--keras
+--numpy
+--pandas
+--matplotlib

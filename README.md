@@ -32,3 +32,11 @@ Handling image preprocessing
 Avoiding overfitting using validation data
 Building end to end deep learning pipeline
 
+This model can help farmers and agricultural companies detect plant diseases early.
+
+Benefits:
+- Early disease detection
+- Reduced crop loss
+- Faster treatment decisions
+- Support for smart farming applications
+

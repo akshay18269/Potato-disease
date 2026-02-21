@@ -40,3 +40,13 @@ Benefits:
 - Faster treatment decisions
 - Support for smart farming applications
 
+After training, the model is automatically saved to the specified directory using TensorFlow's model.save() function.
+
+The project implements automatic version control for saved models. Each time the model is trained, it is saved with an incremented version number such as:
+
+model1
+model2
+model3
+
+This prevents overwriting previous models and allows easy comparison between different training runs.
+
